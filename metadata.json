@@ -1,0 +1,6 @@
+{
+  "name": "RH Hospital — Multispecialty Healthcare & Research Institute",
+  "description": "Comprehensive healthcare portal for RH Hospital featuring doctor appointments, live emergency care, department directories, and patient diagnostic services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
